@@ -14,7 +14,7 @@ Repositório para ser usado pelos candidados à vaga de Desenvolvedor Júnior Ba
 	* Descrição
 	* Realizado
 	* Prioridade
-* Criar CRDUD de tarefas
+* Criar CRUD de tarefas
 
 ## Instruções
 
@@ -22,7 +22,3 @@ Repositório para ser usado pelos candidados à vaga de Desenvolvedor Júnior Ba
 * Trabalhar utilizando commits
 * Documentar como executar sua aplicação
 * Descrever as funcionalidades do software
-
-	
-
-Desafio Junior - 
